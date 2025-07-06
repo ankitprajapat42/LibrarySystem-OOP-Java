@@ -39,11 +39,6 @@ A complete **console-based Library Management System** written in Java using **O
 
 ---
 
-## 📸 Screenshots
-
-> _Coming Soon..._ (Add screenshots of the app running in console here)
-
----
 
 ## 🧪 How to Run
 
